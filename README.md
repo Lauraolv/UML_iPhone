@@ -1,0 +1,2 @@
+Projeto desenvolvido para o curso de JavaDeveloper da DIO. Nesse pequeno projeto foi pedido para criar um diagrama UML que representasse o iphone lançado em 2007 e suas 3 funções diferentes: Roprodutor Musical, Aparelho telefone e Navegador.
+Após esse diagrama foi implementado o modelo representado, porém com algumas mudanças, para fins de aprendizagem, criei uma classe para fazer um tratamento de exceção caso o modelo do iphonne não existisse. 
